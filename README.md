@@ -1,7 +1,7 @@
 btclog
 ======
 
-[![Build Status](http://img.shields.io/travis/btcsuite/btclog.svg)](https://travis-ci.org/btcsuite/btclog)
+[![Build Status](http://img.shields.io/travis/btcsuite/btclog.svg)](https://travis-ci.org/conseweb/btclog)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/btcsuite/btclog)
 
@@ -11,13 +11,13 @@ of a subsystem-aware leveled logger implementing the same interface.
 ## Installation
 
 ```bash
-$ go get github.com/btcsuite/btclog
+$ go get github.com/conseweb/btclog
 ```
 
 ## GPG Verification Key
 
 All official release tags are signed by Conformal so users can ensure the code
-has not been tampered with and is coming from the btcsuite developers.  To
+has not been tampered with and is coming from the conseweb developers.  To
 verify the signature perform the following:
 
 - Download the public key from the Conformal website at
